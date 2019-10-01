@@ -3,4 +3,4 @@
 # composer require
 > composer require stripe/stripe-php
 
-# https://stripe.com/docs
+ https://stripe.com/docs
